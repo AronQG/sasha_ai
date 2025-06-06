@@ -1,0 +1,4 @@
+telegram_token: "7799954702:AAG6q1c72xXof9QYMUVPBlcgxlKPR1KngCU"
+llm_model: "llama3"
+language: "ru"
+llm_model: "llama-3-13b-instruct.Q4_K_M.gguf"

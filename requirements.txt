@@ -1,0 +1,6 @@
+torch
+soundfile
+numpy
+openai-whisper
+speechrecognition
+pyaudio
